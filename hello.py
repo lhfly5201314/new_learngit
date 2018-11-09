@@ -4,3 +4,5 @@ def main()
 {
     print('i love python')
 }
+
+import this
