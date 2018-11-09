@@ -12,4 +12,8 @@ my changes feihong
 
 change the world
 
+<<<<<<< HEAD
 I tried to push my modification
+=======
+my first push,and faster than you!
+>>>>>>> e38685d08348ec9863a9ebc3ef85b97e92ae291d
